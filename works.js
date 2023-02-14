@@ -1,5 +1,126 @@
 module.exports = [
     {
+        title: 'Limagrain',
+        subtitle: 'Field Seeds',
+        url: 'project/limagrain',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/limagrain/1.png',
+        images: ['/works/limagrain/1.png','/works/limagrain/2.png','/works/limagrain/3.png'],
+        clientIndustry: 'Seeds',
+        contentLink: 'https://lgseeds.com.tr',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'MikroX',
+        subtitle: 'Accounting',
+        url: 'project/mikrox',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/mikrox/1.png',
+        images: ['/works/mikrox/1.png','/works/mikrox/2.png','/works/mikrox/3.png'],
+        clientIndustry: 'Accounting & Software',
+        contentLink: 'http://mikrox.com.tr/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Kaleidon',
+        subtitle: 'Supplement Products',
+        url: 'project/kaleidon',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/kaleidon/1.png',
+        images: ['/works/kaleidon/1.png','/works/kaleidon/2.png','/works/kaleidon/3.png','/works/kaleidon/4.png'],
+        clientIndustry: 'Supplement',
+        contentLink: 'http://kaleidon.com/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Kırayteks',
+        subtitle: 'Textile',
+        url: 'project/kirayteks',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/kirayteks/1.png',
+        images: ['/works/kirayteks/1.png','/works/kirayteks/2.png','/works/kirayteks/3.png'],
+        clientIndustry: 'Textile',
+        contentLink: 'http://kirayteks.com/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+
+    {
+        title: 'Orhan Education Foundation',
+        subtitle: 'Foundation',
+        url: 'project/orhan',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/orhanegitim/1.png',
+        images: ['/works/orhanegitim/1.png','/works/orhanegitim/2.png'],
+        clientIndustry: 'Foundation',
+        contentLink: 'https://oekv.org.tr/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Emek Oil',
+        subtitle: 'Food',
+        url: 'project/emek',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/emekyag/1.png',
+        images: ['/works/emekyag/1.png','/works/emekyag/2.png','/works/emekyag/3.png'],
+        clientIndustry: 'Oil Products',
+        contentLink: 'http://emekyag.com.tr/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Grup Medika',
+        subtitle: 'Medical Center',
+        url: 'project/grupmedika',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/grupmedika/1.png',
+        images: ['/works/grupmedika/1.png','/works/grupmedika/2.png','/works/grupmedika/3.png','/works/grupmedika/4.png'],
+        clientIndustry: 'Medical Center',
+        contentLink: 'http://grupmedika.com.tr/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Brev Yapı',
+        subtitle: 'Construction',
+        url: 'project/brev',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/brev/1.png',
+        images: ['/works/brev/1.png','/works/brev/2.png','/works/brev/3.png','/works/brev/4.png'],
+        clientIndustry: 'Building & Construction',
+        contentLink: 'http://brevyapi.com/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'GRL',
+        subtitle: 'Vehicle Seats',
+        url: 'project/grl',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/grl/1.png',
+        images: ['/works/grl/1.png','/works/grl/2.png'],
+        clientIndustry: 'Seat',
+        contentLink: 'http://grl.com.tr/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Buket Efendioğlu',
+        subtitle: 'Architecture',
+        url: 'project/buket',
+        type: 'Portfolio',
+        image: 'https://novembros.co/berkay/works/buketefendioglu/1.png',
+        images: ['/works/buketefendioglu/1.png','/works/buketefendioglu/2.png','/works/buketefendioglu/3.png'],
+        clientIndustry: 'Architecture & Design',
+        contentLink: 'http://buketefendioglu.com/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
         title: 'Alper Aytaç',
         subtitle: 'Product Designer',
         url: 'project/alperaytac',
@@ -32,30 +153,6 @@ module.exports = [
         images: ['/works/breadhouse/1.png','/works/breadhouse/2.png'],
         clientIndustry: 'Bakery Products',
         contentLink: 'http://breadhouse.com.tr/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Brev',
-        subtitle: 'Construction',
-        url: 'project/brev',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/brev/1.png',
-        images: ['/works/brev/1.png','/works/brev/2.png','/works/brev/3.png','/works/brev/4.png'],
-        clientIndustry: 'Building & Construction',
-        contentLink: 'http://brevyapi.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Buket Efendioğlu',
-        subtitle: 'Architecture',
-        url: 'project/buket',
-        type: 'Portfolio',
-        image: 'https://novembros.co/berkay/works/buketefendioglu/1.png',
-        images: ['/works/buketefendioglu/1.png','/works/buketefendioglu/2.png','/works/buketefendioglu/3.png'],
-        clientIndustry: 'Architecture & Design',
-        contentLink: 'http://buketefendioglu.com/',
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
@@ -131,18 +228,7 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Eflatun Safety',
-        subtitle: 'Safety Products',
-        url: 'project/eflatun',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/eflatun/1.png',
-        images: ['/works/eflatun/1.png','/works/eflatun/2.png'],
-        clientIndustry: 'Safety',
-        contentLink: 'http://eflatunsafety.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+
     {
         title: 'EKM Engineering',
         subtitle: 'Custom Projects',
@@ -167,18 +253,7 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Emek Oil',
-        subtitle: 'Food',
-        url: 'project/emek',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/emekyag/1.png',
-        images: ['/works/emekyag/1.png','/works/emekyag/2.png','/works/emekyag/3.png'],
-        clientIndustry: 'Oil Products',
-        contentLink: 'http://emekyag.com.tr/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+
     {
         title: 'Ergül Candies',
         subtitle: 'Food',
@@ -191,18 +266,18 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Eyedius',
-        subtitle: 'Smart Security',
-        url: 'project/eyedius',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/eyedius/1.png',
-        images: ['/works/eyedius/1.png','/works/eyedius/2.png'],
-        clientIndustry: 'Security',
-        contentLink: 'http://eyedius.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+    // {
+    //     title: 'Eyedius',
+    //     subtitle: 'Smart Security',
+    //     url: 'project/eyedius',
+    //     type: 'Corporate',
+    //     image: 'https://novembros.co/berkay/works/eyedius/1.png',
+    //     images: ['/works/eyedius/1.png','/works/eyedius/2.png'],
+    //     clientIndustry: 'Security',
+    //     contentLink: 'http://eyedius.com/',
+    //     contentType: 'WordPress',
+    //     contentDescription: 'etc'
+    // },
     {
         title: 'Fordent',
         subtitle: 'Medical Products',
@@ -212,30 +287,6 @@ module.exports = [
         images: ['/works/fordent/1.png','/works/fordent/2.png'],
         clientIndustry: 'Medical',
         contentLink: 'http://fordentmedikal.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'GRL',
-        subtitle: 'Vehicle Seats',
-        url: 'project/grl',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/grl/1.png',
-        images: ['/works/grl/1.png','/works/grl/2.png'],
-        clientIndustry: 'Seat',
-        contentLink: 'http://grl.com.tr/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Grup Medika',
-        subtitle: 'Medical Center',
-        url: 'project/grupmedika',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/grupmedika/1.png',
-        images: ['/works/grupmedika/1.png','/works/grupmedika/2.png','/works/grupmedika/3.png','/works/grupmedika/4.png'],
-        clientIndustry: 'Medical Center',
-        contentLink: 'http://grupmedika.com.tr/',
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
@@ -263,42 +314,19 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Iossmed',
-        subtitle: 'Medical Products',
-        url: 'project/iossmed',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/iossmed/1.png',
-        images: ['/works/iossmed/1.png','/works/iossmed/2.png'],
-        clientIndustry: 'Medical',
-        contentLink: 'http://iossmed.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Kaleidon',
-        subtitle: 'Supplement Products',
-        url: 'project/kaleidon',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/kaleidon/1.png',
-        images: ['/works/kaleidon/1.png','/works/kaleidon/2.png','/works/kaleidon/3.png','/works/kaleidon/4.png'],
-        clientIndustry: 'Supplement',
-        contentLink: 'http://kaleidon.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Kırayteks',
-        subtitle: 'Textile',
-        url: 'project/kirayteks',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/kirayteks/1.png',
-        images: ['/works/kirayteks/1.png','/works/kirayteks/2.png','/works/kirayteks/3.png'],
-        clientIndustry: 'Textile',
-        contentLink: 'http://kirayteks.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+    // {
+    //     title: 'Iossmed',
+    //     subtitle: 'Medical Products',
+    //     url: 'project/iossmed',
+    //     type: 'Corporate',
+    //     image: 'https://novembros.co/berkay/works/iossmed/1.png',
+    //     images: ['/works/iossmed/1.png','/works/iossmed/2.png'],
+    //     clientIndustry: 'Medical',
+    //     contentLink: 'http://iossmed.com/',
+    //     contentType: 'WordPress',
+    //     contentDescription: 'etc'
+    // },
+
     {
         title: 'Kumartaşlı',
         subtitle: 'Egg',
@@ -311,18 +339,7 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Limagrain',
-        subtitle: 'Field Seeds',
-        url: 'project/limagrain',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/limagrain/1.png',
-        images: ['/works/limagrain/1.png','/works/limagrain/2.png','/works/limagrain/3.png'],
-        clientIndustry: 'Seeds',
-        contentLink: 'http://novembros.co/demo/limagrain/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+
     {
         title: 'Maristan Dent',
         subtitle: 'Dental Clinic',
@@ -335,42 +352,19 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'MB Hospitality Furniture',
-        subtitle: 'Chair & Furniture',
-        url: 'project/mbhospitality',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/mbhospitality/1.png',
-        images: ['/works/mbhospitality/1.png','/works/mbhospitality/2.png'],
-        clientIndustry: 'Chair & Furniture',
-        contentLink: 'http://maristandis.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'MikroX',
-        subtitle: 'Accounting',
-        url: 'project/mikrox',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/mikrox/1.png',
-        images: ['/works/mikrox/1.png','/works/mikrox/2.png','/works/mikrox/3.png'],
-        clientIndustry: 'Accounting & Software',
-        contentLink: 'http://mikrox.com.tr/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Mozaik Design',
-        subtitle: 'Furniture & Design',
-        url: 'project/mikrox',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/mozaik/1.png',
-        images: ['/works/mozaik/1.png','/works/mozaik/2.png'],
-        clientIndustry: 'Furniture & Design',
-        contentLink: 'http://mozaikdesign.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+    // {
+    //     title: 'MB Hospitality Furniture',
+    //     subtitle: 'Chair & Furniture',
+    //     url: 'project/mbhospitality',
+    //     type: 'Corporate',
+    //     image: 'https://novembros.co/berkay/works/mbhospitality/1.png',
+    //     images: ['/works/mbhospitality/1.png','/works/mbhospitality/2.png'],
+    //     clientIndustry: 'Chair & Furniture',
+    //     contentLink: 'http://maristandis.com/',
+    //     contentType: 'WordPress',
+    //     contentDescription: 'etc'
+    // },
+
     {
         title: 'Nordic Coffee',
         subtitle: 'Coffee',
@@ -407,18 +401,7 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Orhan Education Foundation',
-        subtitle: 'Foundation',
-        url: 'project/orhan',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/orhanegitim/1.png',
-        images: ['/works/orhanegitim/1.png','/works/orhanegitim/2.png'],
-        clientIndustry: 'Foundation',
-        contentLink: 'http://novembros.co/demo/oekv',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+
     {
         title: 'Pakfiks Textile',
         subtitle: 'Textile',
@@ -503,18 +486,18 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Turkish Blueberry',
-        subtitle: 'Food & Farm',
-        url: 'project/turkishblueberry',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/turkishblueberry/1.png',
-        images: ['/works/turkishblueberry/1.png','/works/turkishblueberry/2.png'],
-        clientIndustry: 'Food',
-        contentLink: 'http://turkishblueberry.com',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+    // {
+    //     title: 'Turkish Blueberry',
+    //     subtitle: 'Food & Farm',
+    //     url: 'project/turkishblueberry',
+    //     type: 'Corporate',
+    //     image: 'https://novembros.co/berkay/works/turkishblueberry/1.png',
+    //     images: ['/works/turkishblueberry/1.png','/works/turkishblueberry/2.png'],
+    //     clientIndustry: 'Food',
+    //     contentLink: 'http://turkishblueberry.com',
+    //     contentType: 'WordPress',
+    //     contentDescription: 'etc'
+    // },
     {
         title: 'Umay',
         subtitle: 'Museum Design',
@@ -539,18 +522,18 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Valorem',
-        subtitle: 'Personal Growth',
-        url: 'project/valorem',
-        type: 'Blog',
-        image: 'https://novembros.co/berkay/works/valorem/1.png',
-        images: ['/works/valorem/1.png','/works/valorem/2.png'],
-        clientIndustry: 'Blog',
-        contentLink: 'http://valoremgrup.com.tr',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+    // {
+    //     title: 'Valorem',
+    //     subtitle: 'Personal Growth',
+    //     url: 'project/valorem',
+    //     type: 'Blog',
+    //     image: 'https://novembros.co/berkay/works/valorem/1.png',
+    //     images: ['/works/valorem/1.png','/works/valorem/2.png'],
+    //     clientIndustry: 'Blog',
+    //     contentLink: 'http://valoremgrup.com.tr',
+    //     contentType: 'WordPress',
+    //     contentDescription: 'etc'
+    // },
     {
         title: 'VR Kronos',
         subtitle: 'Virtual Reality',
