@@ -89,7 +89,7 @@ function PhotosPage({photos, stats}) {
             </div>
 
 
-            <h3 className="text-md mb-5">eCommerce Websites</h3>
+            <h3 className="text-md mb-5" style="margin-top: 40px">eCommerce Websites</h3>
 
             <div className="flex flex-col mb-10">
               <div className="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
