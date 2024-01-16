@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next --openssl-legacy-provider start"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
