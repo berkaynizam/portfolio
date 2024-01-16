@@ -23,18 +23,18 @@ module.exports = [
     //     contentType: 'WooCommerce',
     //     contentDescription: 'etc'
     // },
-    {
-        title: 'Mozaik Design',
-        subtitle: 'Furniture & Design',
-        url: 'project/mikrox',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/mozaik/1.png',
-        images: ['/works/mozaik/1.png','/works/mozaik/2.png'],
-        clientIndustry: 'Furniture & Design',
-        contentLink: 'http://mozaikdesign.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+    // {
+    //     title: 'Mozaik Design',
+    //     subtitle: 'Furniture & Design',
+    //     url: 'project/mikrox',
+    //     type: 'Corporate',
+    //     image: 'https://novembros.co/berkay/works/mozaik/1.png',
+    //     images: ['/works/mozaik/1.png','/works/mozaik/2.png'],
+    //     clientIndustry: 'Furniture & Design',
+    //     contentLink: 'http://mozaikdesign.com/',
+    //     contentType: 'WordPress',
+    //     contentDescription: 'etc'
+    // },
     {
         title: 'Eflatun Safety',
         subtitle: 'Safety Products',

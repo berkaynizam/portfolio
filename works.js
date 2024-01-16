@@ -1,5 +1,29 @@
 module.exports = [
     {
+        title: 'Nest Programme',
+        subtitle: 'Research Labs',
+        url: 'project/nestprogramme',
+        type: 'Corporate',
+        image: 'https://demo.nizards.com/nizards/works/nest01.jpg',
+        images: ['/works/teknokol/1.png','/works/teknokol/2.png'],
+        clientIndustry: 'Academy Labs',
+        contentLink: 'https://nest-programme.org.uk/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Performance Dynamics',
+        subtitle: 'Athlete Training',
+        url: 'project/nestprogramme',
+        type: 'Corporate',
+        image: 'https://demo.nizards.com/nizards/works/pd02.jpg',
+        images: ['/works/teknokol/1.png','/works/teknokol/2.png'],
+        clientIndustry: 'Athlete Training',
+        contentLink: 'https://performancedynamics.ie/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
         title: 'Limagrain',
         subtitle: 'Field Seeds',
         url: 'project/limagrain',
@@ -12,14 +36,14 @@ module.exports = [
         contentDescription: 'etc'
     },
     {
-        title: 'MikroX',
+        title: 'Mikro',
         subtitle: 'Accounting',
         url: 'project/mikrox',
         type: 'Corporate',
         image: 'https://novembros.co/berkay/works/mikrox/1.png',
         images: ['/works/mikrox/1.png','/works/mikrox/2.png','/works/mikrox/3.png'],
         clientIndustry: 'Accounting & Software',
-        contentLink: 'http://mikrox.com.tr/',
+        contentLink: 'http://mikro.com.tr/',
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
@@ -31,7 +55,31 @@ module.exports = [
         image: 'https://novembros.co/berkay/works/kaleidon/1.png',
         images: ['/works/kaleidon/1.png','/works/kaleidon/2.png','/works/kaleidon/3.png','/works/kaleidon/4.png'],
         clientIndustry: 'Supplement',
-        contentLink: 'http://kaleidon.com/',
+        contentLink: 'https://kaleidonprobiyotik.com/',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Teknokol',
+        subtitle: 'Support Arm Systems',
+        url: 'project/teknokol',
+        type: 'Corporate',
+        image: 'https://novembros.co/berkay/works/teknokol/1.png',
+        images: ['/works/teknokol/1.png','/works/teknokol/2.png'],
+        clientIndustry: 'Industry',
+        contentLink: 'http://teknokol.com',
+        contentType: 'WordPress',
+        contentDescription: 'etc'
+    },
+    {
+        title: 'Genç Sigorta',
+        subtitle: 'Sigortacılık',
+        url: 'project/teknokol',
+        type: 'Corporate',
+        image: 'https://demo.nizards.com/nizards/works/genc01.jpg',
+        images: ['https://demo.nizards.com/nizards/works/genc01.jpg','/works/teknokol/2.png'],
+        clientIndustry: 'Insurance',
+        contentLink: 'http://gencsigorta.com',
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
@@ -109,14 +157,14 @@ module.exports = [
         contentDescription: 'etc'
     },
     {
-        title: 'Buket Efendioğlu',
+        title: 'BE Interiors',
         subtitle: 'Architecture',
         url: 'project/buket',
         type: 'Portfolio',
         image: 'https://novembros.co/berkay/works/buketefendioglu/1.png',
         images: ['/works/buketefendioglu/1.png','/works/buketefendioglu/2.png','/works/buketefendioglu/3.png'],
         clientIndustry: 'Architecture & Design',
-        contentLink: 'http://buketefendioglu.com/',
+        contentLink: 'http://beicmimarlik.com/',
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
@@ -133,30 +181,6 @@ module.exports = [
         contentDescription: 'etc'
     },
     {
-        title: 'BeyKem Law',
-        subtitle: 'Law Firm',
-        url: 'project/beykem',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/beykem/1.png',
-        images: ['/works/beykem/1.png','/works/beykem/2.png'],
-        clientIndustry: 'Law',
-        contentLink: 'http://beykemhukuk.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'BreadHouse',
-        subtitle: 'Bakery',
-        url: 'project/breadhouse',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/breadhouse/1.png',
-        images: ['/works/breadhouse/1.png','/works/breadhouse/2.png'],
-        clientIndustry: 'Bakery Products',
-        contentLink: 'http://breadhouse.com.tr/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
         title: 'Capella&Co',
         subtitle: 'Architecture',
         url: 'project/capella',
@@ -165,18 +189,6 @@ module.exports = [
         images: ['/works/capella/1.png','/works/capella/2.png'],
         clientIndustry: 'Architecture & Design',
         contentLink: 'http://capellaandco.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Cemka',
-        subtitle: 'Fabric',
-        url: 'project/cemka',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/cemka/1.png',
-        images: ['/works/cemka/1.png','/works/cemka/2.png'],
-        clientIndustry: 'Polyurethane & Fabric',
-        contentLink: 'http://cemka.com/',
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
@@ -205,18 +217,6 @@ module.exports = [
         contentDescription: 'etc'
     },
     {
-        title: 'Dentaplan',
-        subtitle: 'Dental Clinic',
-        url: 'project/dentaplan',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/dentaplan/1.png',
-        images: ['/works/dentaplan/1.png','/works/dentaplan/2.png'],
-        clientIndustry: 'Dent',
-        contentLink: 'http://dentaplan.com.tr/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
         title: 'Dorrek',
         subtitle: 'Advertising',
         url: 'project/dorrek',
@@ -228,7 +228,6 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-
     {
         title: 'EKM Engineering',
         subtitle: 'Custom Projects',
@@ -238,31 +237,6 @@ module.exports = [
         images: ['/works/ekmmuhendis/1.png','/works/ekmmuhendis/2.png'],
         clientIndustry: 'Engineering',
         contentLink: 'http://ekmmuhendislikmimarlik.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-    {
-        title: 'Elvan Kanat',
-        subtitle: 'Healthy Life Center',
-        url: 'project/elvan',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/elvan/1.png',
-        images: ['/works/elvan/1.png','/works/elvan/2.png'],
-        clientIndustry: 'Healthy Life Center',
-        contentLink: 'http://elvankanatsaglikliyasammerkezi.com/',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
-
-    {
-        title: 'Ergül Candies',
-        subtitle: 'Food',
-        url: 'project/ergul',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/ergul/1.png',
-        images: ['/works/ergul/1.png','/works/ergul/2.png'],
-        clientIndustry: 'Food',
-        contentLink: 'http://ergulsekerleme.com/',
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
@@ -474,18 +448,7 @@ module.exports = [
         contentType: 'WordPress',
         contentDescription: 'etc'
     },
-    {
-        title: 'Teknokol',
-        subtitle: 'Support Arm Systems',
-        url: 'project/teknokol',
-        type: 'Corporate',
-        image: 'https://novembros.co/berkay/works/teknokol/1.png',
-        images: ['/works/teknokol/1.png','/works/teknokol/2.png'],
-        clientIndustry: 'Industry',
-        contentLink: 'http://teknokol.com',
-        contentType: 'WordPress',
-        contentDescription: 'etc'
-    },
+
     // {
     //     title: 'Turkish Blueberry',
     //     subtitle: 'Food & Farm',
